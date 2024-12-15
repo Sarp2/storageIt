@@ -1,5 +1,5 @@
 import Image from "next/image";
-
+import React from "react";
 const AuthLayout = ({ children }: { children: React.ReactNode }) => {
     return (
         <div className="flex min-h-screen">

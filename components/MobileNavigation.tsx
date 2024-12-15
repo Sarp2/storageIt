@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 
-import {Sheet, SheetContent, SheetDescription, SheetHeader, SheetTitle,SheetTrigger,
+import {Sheet, SheetContent, SheetTitle,SheetTrigger,
 } from "@/components/ui/sheet";
 import { Separator } from "@/components/ui/separator";
 import { Button } from "@/components/ui/button";
